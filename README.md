@@ -5,7 +5,10 @@ netwhat과제는 네트워크의 기본에 대해 공부하는 단계입니다. 
 
 ## 2. 공부할 것들....
 
-1. [IP address는 무엇인가?](https://codingmonsters.tistory.com/manage/posts)
+0. [Network란 무엇인가?](https://codingmonsters.tistory.com/26)
+1. [IP address는 무엇인가?](https://codingmonsters.tistory.com/25)
+2. [Netmask는 무엇인가?](https://codingmonsters.tistory.com/manage/posts/)
+3. [Subneting을 하는 이유](https://codingmonsters.tistory.com/28)
 
 
 ### Prerequisites / 선행 조건
