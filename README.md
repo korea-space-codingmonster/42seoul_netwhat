@@ -1,11 +1,12 @@
 # Project Title / 42seoul_netwhat
 
-**[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
-netwhat과제는 
+## 1. 소개  
+netwhat과제는 네트워크의 기본에 대해 공부하는 단계입니다. 네트워크 내부가 어떻게 동작하고, 구성요소가 무엇인지 일상생활에서 사용하는 네트워크가 어떤 과정을 통해서 우리가 사용하고 있는지에 대한 기본을 쌓는 단계입니다. 
 
-## Getting Started / 어떻게 시작하나요?
+## 2. 공부할 것들....
 
-이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
+1. IP address는 무엇인가?(https://codingmonsters.tistory.com/manage/posts)
+
 
 ### Prerequisites / 선행 조건
 
