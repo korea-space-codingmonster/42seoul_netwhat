@@ -1,37 +1,53 @@
 # 42seoul_netwhat
-netwhat subject 
+Project Title / 프로젝트 이름
 
-Net what
+[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]
+One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
 
+Getting Started / 어떻게 시작하나요?
 
-What is an IP address
- 
-IP주소:  어떤 컴퓨터의 위치를 특정해주기 위한 ‘컴퓨터의 주소’
+이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
 
-Protocol : 컴퓨터나 네트워크 장비가 서로 통신하기 위해 미리 정해놓은 규칙, 규약
+Prerequisites / 선행 조건
 
-<IPV4, IPV6>
-IPv4 : 인터넷 프로토콜의 4번째 판이며, 전 세계적으로 사용된 첫 번째 인터넷 프로토콜이다. 과거에 인터넷에서 사용되는 유일한 프로토콜이었으나 오늘날에는 IPv6가 대중화되었다. 
+아래 사항들이 설치가 되어있어야합니다.
 
-IPv4의 주소체계는 총 12자리이며 네 부분으로 나뉜다. 각 부분은 0~255까지 3자리의 수로 표현된다. IPv4 주소는 32비트로 구성되어 있으며, 현재 인터넷 사용자의 증가로 인해 주소공간의 고갈에 대한 우려가 높아지고 있다. 이에 따라 대안으로 128비트 주소체계를 갖는 IPv6가 등장하였다. 
+예시
+Installing / 설치
 
+아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
 
-IPv6 : IPv6주소는 기존의 IPv4 주소체계를 128비트 크기로 확장한 차세대 인터넷 프로토콜 주소입니다. IPv6 주소의 경우 일반적으로 16비트 단위로 나누어지며 각 16비트 블록은 다시 4자리 16진수로 변환되고 콜론으로 구분되어 진다. 기존에 IPv4주소가 최대 43억개를 만들 수 있는데 반하여, IPv6주소는 3.4*10^38 개의 주소를 생성할 수 있다.
+예시
+Running the tests / 테스트의 실행
 
+어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
 
-<IPv4 vs IPv6>
+테스트는 이런 식으로 동작합니다
 
-|구분|IPv4|IPv6|
-주소길이	32비트	128비트
-표시방법	8비트씩 4부분으로 10진수로 표시
-(ex: 202.30.64.22)	16비트씩 8부분으로 16진수로 표시 (ex: 2001:0230:abcd:ffff:0000:0000:ffff:1111)
-주소개수	약 43억개	약 43억*43억*43억*43억개
-주소할당	A,B,C,등 클래스 단위의 비순차적할당	네트워크 규모 및 단말기 수에 따른 순차적 할당
-품질제어	지원 수단 없음	등급별, 서비스별로 패킷을 구분할 수 있어 품질보장이 용이
-보안기능	IPsec 프로토콜 별도 설치	확장기능에서 기본으로 제공
-플러그 앤드 플레이	지원 수단 없음	지원 수단 있음
-모바일IP	상당히 곤란	용이
-웹캐스팅	곤란	용이
+왜 이렇게 동작하는지, 설명합니다
 
+예시
+테스트는 이런 식으로 작성하시면 됩니다
 
+예시
+Deployment / 배포
 
+Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
+
+Built With / 누구랑 만들었나요?
+
+이름 - 무엇 무엇을 했어요
+Name - Create README.md
+Contributiong / 기여
+
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us. / CONTRIBUTING.md 를 읽고 이에 맞추어 pull request 를 해주세요.
+
+License / 라이센스
+
+This project is licensed under the MIT License - see the LICENSE.md file for details / 이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE.md 파일을 참고하세요.
+
+Acknowledgments / 감사의 말
+
+Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
+Inspiration / 영감
+etc / 기타
